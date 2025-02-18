@@ -1,4 +1,3 @@
-/* Custom font for body */
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -6,7 +5,6 @@ body {
     padding: 0;
 }
 
-/* Header & Footer */
 .header-footer {
     background-color: #da6363;
     color: white;
@@ -14,7 +12,6 @@ body {
     margin: 10px;
 }
 
-/* Navigation */
 nav ul {
     list-style: none;
     padding: 0;
@@ -37,7 +34,6 @@ nav ul li a:hover {
     color: red;
 }
 
-/* Main Content & Sidebar */
 .container {
     display: flex;
     justify-content: space-between;
@@ -63,7 +59,6 @@ nav ul li a:hover {
     background-color: #f435f1;
 }
 
-/* Form Styling */
 input[type="text"] {
     transition: width 0.3s;
     width: 150px;
